@@ -24,19 +24,14 @@ author:
   avatar           : "Beibei Xu_headshot.JPG"
   name             : "Beibei Xu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
   location         : "USA"
   employer         : "Cornell University"
-  uri              : # URL
   email            : "bx74@cornell.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=h9ZNarIAAAAJ&hl=en"
-  impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-5804-2906"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Beibei-Xu-15"
 
   # Repositories and software development
