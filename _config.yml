@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Beibei Xu / Precision Agriculture "
+title                    : "Beibei Xu / Personal Website "
 title_separator          : "-"
 name                     : &name "Beibei Xu"
 description              : &description "personal description"
