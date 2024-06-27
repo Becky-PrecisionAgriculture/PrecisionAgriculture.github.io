@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Beibei Xu_headshot.JPG"
+  avatar           : "headshot.JPG"
   name             : "Beibei Xu"
   pronouns         : # example: "she/her"  
   location         : "USA"
