@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral research fellow at Cornell University. My research interest includes
+I am currently a postdoctoral research fellow at Cornell University. My research interests mainly include precision agriculture and smart farming. Specifically, I focus on using drones, surveillance cameras, and various sensors combined with machine learning, deep learning, and computer vision to provide advanced services for agriculture. By leveraging these technologies, I aim to optimize crop yields, improve livestock management, and reduce environmental impact.
 
 A data-driven personal website
 ======
