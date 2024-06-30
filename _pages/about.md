@@ -23,13 +23,13 @@ Academic appointments
 Education
 ======
 
-Ph.D., Chinese Academy of Agricultural Sciences, Information Technology and Digital Agriculture, Jan 2022
+Ph.D., Chinese Academy of Agricultural Sciences, Jan 2022       
  
 Sandwich Ph.D. Student, University of Cambridge, Aug 2021
  
-Visiting Research Student, University of New England, Computer Science, Dec 2018
+Visiting Research Student, University of New England, Dec 2018
  
-B.S., Beijing Technology and Business University, Information Management and Information System, Jun 2016
+B.S., Beijing Technology and Business University, Jun 2016
  
   
 
