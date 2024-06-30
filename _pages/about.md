@@ -30,18 +30,23 @@ Academic appointments
 Education
 ======
 
-**Cornell University, Ithaca, New York, USA**
+**Chinese Academy of Agricultural Sciences, Beijing, China**
  
- Postdoctoral Researcher, Population Medicine and Diagnostic Sciences, Nov 2023 - Present
+ Ph.D., Information Technology and Digital Agriculture, Jan 2022
  
- **University of Wisconsin-Madison, Madison, Wisconsin, USA**
+ **University of Cambridge, Cambridge, United Kingdom**
  
- Postdoctoral Researcher, Biological System Engineering, Oct 2022 - Oct 2023
+ Sandwich Ph.D. Student, Veterinary Medicine, Aug 2021
  
- **University of British Columbia, Vancouver, Canada**
+ **University of New England, Armidale, Australia**
  
- Postdoctoral Researcher, Faculty of Land and Food Systems, Feb 2022 - Apr 2022
+ Visiting Research Student, Computer Science, Dec 2018
+ 
+ **Beijing Technology and Business University, Beijing, China**
+ 
+ B.S., Information Management and Information System, Jun 2016
 
+ 
 
 Site-wide configuration
 ------
