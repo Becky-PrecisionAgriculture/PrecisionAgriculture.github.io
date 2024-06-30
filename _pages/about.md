@@ -14,7 +14,7 @@ Academic appointments
  
  Cornell University, Postdoctoral Researcher, Nov 2023 - Present
  
- University of Wisconsin-Madison, Postdoctoral Researcher,Oct 2022 - Oct 2023
+ University of Wisconsin-Madison, Postdoctoral Researcher, Oct 2022 - Oct 2023
  
  University of British Columbia, Postdoctoral Researcher, Feb 2022 - Apr 2022
 
