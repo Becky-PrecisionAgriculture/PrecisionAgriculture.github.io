@@ -12,12 +12,12 @@ I am currently a postdoctoral research fellow at Cornell University. My research
 Academic appointments
 ======
 
-### Cornell University, Ithaca, New York, USA
-#### Postdoctoral Researcher, Population Medicine and Diagnostic Sciences, Nov 2023 - Present
-### University of Wisconsin-Madison, Madison, Wisconsin, USA
-#### Postdoctoral Researcher, Biological System Engineering, Oct 2022 - Oct 2023
-### University of British Columbia, Vancouver, Canada 
-#### Postdoctoral Researcher, Faculty of Land and Food Systems, Feb 2022 - Apr 2022
+ <p> Cornell University, Ithaca, New York, USA
+ <p> Postdoctoral Researcher, Population Medicine and Diagnostic Sciences, Nov 2023 - Present
+ <p> University of Wisconsin-Madison, Madison, Wisconsin, USA
+ <p> Postdoctoral Researcher, Biological System Engineering, Oct 2022 - Oct 2023
+ <p> University of British Columbia, Vancouver, Canada 
+ <p> Postdoctoral Researcher, Faculty of Land and Food Systems, Feb 2022 - Apr 2022
 
 
 
