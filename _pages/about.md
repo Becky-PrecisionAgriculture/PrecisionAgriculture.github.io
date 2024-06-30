@@ -13,7 +13,7 @@ Academic appointments
 ======
 
 Cornell University, Ithaca, New York, USA
-	Postdoctoral Researcher, Population Medicine and Diagnostic Sciences, Nov 2023 - Present
+Postdoctoral Researcher, Population Medicine and Diagnostic Sciences, Nov 2023 - Present
 University of Wisconsin-Madison, Madison, Wisconsin, USA
 	Postdoctoral Researcher, Biological System Engineering, Oct 2022 - Oct 2023
 University of British Columbia, Vancouver, Canada 
