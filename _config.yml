@@ -196,7 +196,7 @@ kramdown:
 # Collections
 collections:
   Research:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
