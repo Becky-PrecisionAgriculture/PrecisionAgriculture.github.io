@@ -9,16 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D., Chinese Academy of Agricultural Sciences, Jan 2022
-  
-* Sandwich Ph.D. Student, University of Cambridge, Aug 2021
-  
-* Visiting Research Student, University of New England, Dec 2018
-  
-* B.S., Beijing Technology and Business University, Jun 2016
-
 Academic appointments
 ======
  
@@ -28,6 +18,16 @@ Academic appointments
  
 * University of British Columbia, Postdoctoral Researcher, Feb 2022 - Apr 2022
 
+
+Education
+======
+* Ph.D., Chinese Academy of Agricultural Sciences, Jan 2022
+  
+* Sandwich Ph.D. Student, University of Cambridge, Aug 2021
+  
+* Visiting Research Student, University of New England, Dec 2018
+  
+* B.S., Beijing Technology and Business University, Jun 2016
   
   
 Honors and Awards
