@@ -12,24 +12,22 @@ redirect_from:
 Education
 ======
 * Ph.D., Chinese Academy of Agricultural Sciences, Jan 2022
+  
 * Sandwich Ph.D. Student, University of Cambridge, Aug 2021
+  
 * Visiting Research Student, University of New England, Dec 2018
+  
 * B.S., Beijing Technology and Business University, Jun 2016
 
 Academic appointments
 ======
-* Nov 2023 - Present: Postdoctoral Researcher
-  * Cornell University
+ 
+* Cornell University, Postdoctoral Researcher, Nov 2023 - Present
+ 
+* University of Wisconsin-Madison, Postdoctoral Researcher, Oct 2022 - Oct 2023
+ 
+* University of British Columbia, Postdoctoral Researcher, Feb 2022 - Apr 2022
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
