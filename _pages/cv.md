@@ -16,7 +16,7 @@ Education
 * Visiting Research Student, University of New England, Dec 2018
 * B.S., Beijing Technology and Business University, Jun 2016
 
-Work experience
+Academic appointments
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
