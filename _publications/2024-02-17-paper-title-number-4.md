@@ -2,9 +2,6 @@
 title: " Intelligent weight prediction of cows 
 based on semantic segmentation and back propagation neural network"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
 paperurl: 'https://doi.org/10.3389/frai.2024.1299169'
 ---
 
