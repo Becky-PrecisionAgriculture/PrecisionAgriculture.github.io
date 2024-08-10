@@ -20,8 +20,6 @@ Academic appointments
 ======
 * Nov 2023 - Present: Postdoctoral Researcher
   * Cornell University
-  #* Duties includes: Updates and improvements to template
-  #* Supervisor: The Users
 
 * Fall 2015: Research Assistant
   * Github University
