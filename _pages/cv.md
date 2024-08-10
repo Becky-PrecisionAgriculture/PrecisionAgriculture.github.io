@@ -30,6 +30,11 @@ Academic appointments
 
   
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Honors and Awards
+====== 
+
+* Chinese Government Scholarship, China Scholarship Council, 2020 
+
+* National Scholarship for Postgraduates, China, 2020
+
+* Outstanding Graduates Awards, China, 2016
