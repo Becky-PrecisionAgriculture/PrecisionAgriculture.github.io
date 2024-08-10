@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D., Chinese Academy of Agricultural Sciences, Jan 2022
+* Sandwich Ph.D. Student, University of Cambridge, Aug 2021
+* Visiting Research Student, University of New England, Dec 2018
+* B.S., Beijing Technology and Business University, Jun 2016
 
 Work experience
 ======
