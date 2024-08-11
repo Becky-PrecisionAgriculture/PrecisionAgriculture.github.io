@@ -20,11 +20,11 @@ author_profile: true
 
 * [5] Beibei Xu, Wensheng Wang, Leifeng Guo, Guipeng Chen, Yaowu Wang, Wenju Zhang, Yongfeng Li. 2021. Evaluation of deep learning for automatic multi-view face detection in cattle. Agriculture, 11 (11):1062. <a href="https://doi.org/10.3390/agriculture11111062" style="color: blue; text-decoration: none;">【DOI】</a> 
 
-* [6] Beibei Xu, Wensheng Wang, Greg Falzon, Paul Kwan, Leifeng Guo, Guipeng Chen, Amy Tait, Derek Schneider. 2020. Automated cattle counting using Mask R-CNN in quadcopter vision system. Computers and Electronics in Agriculture, 171:105300. Doi: 10.1016/j.compag.2020.105300
+* [6] Beibei Xu, Wensheng Wang, Greg Falzon, Paul Kwan, Leifeng Guo, Guipeng Chen, Amy Tait, Derek Schneider. 2020. Automated cattle counting using Mask R-CNN in quadcopter vision system. Computers and Electronics in Agriculture, 171:105300. <a href="https://doi.org/10.1016/j.compag.2020.105300" style="color: blue; text-decoration: none;">【DOI】</a>  
 
-* [7] Beibei Xu, Wensheng Wang, Greg Falzon, Paul Kwan, Leifeng Guo, Zhiguo Sun, Chunlei Li. 2020. Livestock classification and counting in quadcopter aerial images using Mask R-CNN. International Journal of Remote Sensing, 41(21):8121-8142. Doi: 10.1080/01431161.2020.1734245
+* [7] Beibei Xu, Wensheng Wang, Greg Falzon, Paul Kwan, Leifeng Guo, Zhiguo Sun, Chunlei Li. 2020. Livestock classification and counting in quadcopter aerial images using Mask R-CNN. International Journal of Remote Sensing, 41(21):8121-8142. <a href="https://doi.org/10.1080/01431161.2020.1734245" style="color: blue; text-decoration: none;">【DOI】</a>    
 
-* [8] Beibei Xu, Wensheng Wang, Leifeng Guo, Guipeng Chen. 2020. A Review and Future Prospects on Cattle Recognition Based on Non-contact Identification. Journal of China Agricultural Science and Technology, 20(07):79-89. Doi: 10.13304/j.nykjdb.2019.0580
+* [8] Beibei Xu, Wensheng Wang, Leifeng Guo, Guipeng Chen. 2020. A Review and Future Prospects on Cattle Recognition Based on Non-contact Identification. Journal of China Agricultural Science and Technology, 20(07):79-89. <a href="https://doi.org/10.13304/j.nykjdb.2019.0580" style="color: blue; text-decoration: none;">【DOI】</a> 
 
 * [9] Guofeng Yang, Yong He, Yong Yang, Beibei Xu. 2020. Fine-Grained image classification for crop disease based on attention mechanism. Frontiers in Plant Science,11:600854. Doi: 10.3389/fpls.2020.600854
 
