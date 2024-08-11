@@ -26,11 +26,11 @@ author_profile: true
 
 * [8] Beibei Xu, Wensheng Wang, Leifeng Guo, Guipeng Chen. 2020. A Review and Future Prospects on Cattle Recognition Based on Non-contact Identification. Journal of China Agricultural Science and Technology, 20(07):79-89. <a href="https://doi.org/10.13304/j.nykjdb.2019.0580" style="color: blue; text-decoration: none;">【DOI】</a> 
 
-* [9] Guofeng Yang, Yong He, Yong Yang, Beibei Xu. 2020. Fine-Grained image classification for crop disease based on attention mechanism. Frontiers in Plant Science,11:600854. Doi: 10.3389/fpls.2020.600854
+* [9] Guofeng Yang, Yong He, Yong Yang, Beibei Xu. 2020. Fine-Grained image classification for crop disease based on attention mechanism. Frontiers in Plant Science,11:600854. <a href="https://doi.org/10.3389/fpls.2020.600854" style="color: blue; text-decoration: none;">【DOI】</a> 
 
-* [10] Ahsan Mamiya Binte, Guo Leifeng, Fardous Mohammad Safiul Azam, Beibei Xu, Shah Johir Rayhan, Abdul Kaium, Wang Wensheng. 2022. Barriers, Challenges, and Requirements for ICT Usage among Sub-Assistant Agricultural Officers in Bangladesh: Toward Sustainability in Agriculture. Sustainability, 15(1):782. Doi: 10.3390/su15010782
+* [10] Ahsan Mamiya Binte, Guo Leifeng, Fardous Mohammad Safiul Azam, Beibei Xu, Shah Johir Rayhan, Abdul Kaium, Wang Wensheng. 2022. Barriers, Challenges, and Requirements for ICT Usage among Sub-Assistant Agricultural Officers in Bangladesh: Toward Sustainability in Agriculture. Sustainability, 15(1):782. <a href="https://doi.org/10.3390/su15010782" style="color: blue; text-decoration: none;">【DOI】</a>  
 
-* [11] Zhongming Jin, Leifeng Guo, Hang Shu, Jingwei Qi, Yongfeng Li, Beibei Xu, Wenju Zhang, Kaiwen Wang, Wensheng Wang. 2022. Behavior Classification and Analysis of Grazing Sheep on Pasture with Different Sward Surface Heights Using Machine Learning. Animals, 12(14): 1744. Doi: 10.3390/ani12141744
+* [11] Zhongming Jin, Leifeng Guo, Hang Shu, Jingwei Qi, Yongfeng Li, Beibei Xu, Wenju Zhang, Kaiwen Wang, Wensheng Wang. 2022. Behavior Classification and Analysis of Grazing Sheep on Pasture with Different Sward Surface Heights Using Machine Learning. Animals, 12(14): 1744. <a href="https://doi.org/10.3390/ani12141744" style="color: blue; text-decoration: none;">【DOI】</a> 
 
 * [12] Yongfeng Li, Hang Shu, Jérôme Bindelle, Beibei Xu, Wenju Zhang, Leifeng Guo, Wensheng Wang. 2022. Classification and analysis of multiple cattle unitary behaviors and movements based on machine learning methods. Animals, 12(9):1060. Doi: 10.3390/ani12091060
 
