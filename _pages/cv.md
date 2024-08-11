@@ -12,22 +12,22 @@ redirect_from:
 Academic appointments
 ======
  
-* Cornell University, Postdoctoral Researcher, Nov 2023 - Present
+* Cornell University, Postdoctoral Researcher, USA, Nov 2023 - Present
  
-* University of Wisconsin-Madison, Postdoctoral Researcher, Oct 2022 - Oct 2023
+* University of Wisconsin-Madison, Postdoctoral Researcher, USA, Oct 2022 - Oct 2023
  
-* University of British Columbia, Postdoctoral Researcher, Feb 2022 - Apr 2022
+* University of British Columbia, Postdoctoral Researcher, USA, Feb 2022 - Apr 2022
 
 
 Education
 ======
-* Ph.D., Chinese Academy of Agricultural Sciences, Jan 2022
+* Ph.D., Chinese Academy of Agricultural Sciences, China, Jan 2022
   
-* Sandwich Ph.D. Student, University of Cambridge, Aug 2021
+* Sandwich Ph.D. Student, University of Cambridge, UK, Aug 2021
   
-* Visiting Research Student, University of New England, Dec 2018
+* Visiting Research Student, University of New England, Australia, Dec 2018
   
-* B.S., Beijing Technology and Business University, Jun 2016
+* B.S., Beijing Technology and Business University, China, Jun 2016
   
   
 Honors and Awards
