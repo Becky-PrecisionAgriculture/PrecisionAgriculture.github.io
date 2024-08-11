@@ -14,7 +14,7 @@ author_profile: true
 
 * [2] Beibei Xu, Jiahao Fan, Jun Chao, Nikola Arsenijevic, Rodrigo Werle, Zhou Zang. 2023. Instance segmentation method for weed detection using UAV imagery in soybean fields. Computers and Electronics in Agriculture, 211:107994. <a href="https://doi.org/10.1016/j.compag.2023.107994" style="color: blue; font-weight: bold; text-decoration: none;">【DOI】</a> 
 
-* [3] Beibei Xu, Wensheng Wang, Leifeng Guo, Guipeng Chen, Yongfeng Li, Zhen Cao, Saisai Wu. 2022. CattleFaceNet: An adaptive cattle face identification approach based on RetinaFace and Additive Angular Margin Loss. Computers and Electronics in Agriculture,193: 106675. Doi: 10.1016/j.compag.2021.106675
+* [3] Beibei Xu, Wensheng Wang, Leifeng Guo, Guipeng Chen, Yongfeng Li, Zhen Cao, Saisai Wu. 2022. CattleFaceNet: An adaptive cattle face identification approach based on RetinaFace and Additive Angular Margin Loss. Computers and Electronics in Agriculture,193: 106675. <a href="https://doi.org/10.1016/j.compag.2021.106675" style="color: blue; font-weight: bold; text-decoration: none;">【DOI】</a>
 
 * [4] Guipeng Chen, Chong Li, Yang Guo,Hang Shu, Zhen Cao, Beibei Xu*. 2022. Recognition of cattle’s feeding behaviors using a noseband pressure sensor with machine learning. Frontiers in Veterinary Science, 9:822621. Doi: 10.3389/fvets.2022.822621
 
