@@ -18,7 +18,7 @@ author_profile: true
 
 * [4] Guipeng Chen, Chong Li, Yang Guo,Hang Shu, Zhen Cao, Beibei Xu*. 2022. Recognition of cattle’s feeding behaviors using a noseband pressure sensor with machine learning. Frontiers in Veterinary Science, 9:822621. <a href="https://doi.org/10.3389/fvets.2022.822621" style="color: blue; font-weight: bold; text-decoration: none;">【DOI】</a>
 
-* [5] Beibei Xu, Wensheng Wang, Leifeng Guo, Guipeng Chen, Yaowu Wang, Wenju Zhang, Yongfeng Li. 2021. Evaluation of deep learning for automatic multi-view face detection in cattle. Agriculture, 11 (11):1062. Doi: 10.3390/agriculture11111062
+* [5] Beibei Xu, Wensheng Wang, Leifeng Guo, Guipeng Chen, Yaowu Wang, Wenju Zhang, Yongfeng Li. 2021. Evaluation of deep learning for automatic multi-view face detection in cattle. Agriculture, 11 (11):1062. <a href="https://doi.org/10.3390/agriculture11111062" style="color: blue; font-weight: bold; text-decoration: none;">【DOI】</a> 
 
 * [6] Beibei Xu, Wensheng Wang, Greg Falzon, Paul Kwan, Leifeng Guo, Guipeng Chen, Amy Tait, Derek Schneider. 2020. Automated cattle counting using Mask R-CNN in quadcopter vision system. Computers and Electronics in Agriculture, 171:105300. Doi: 10.1016/j.compag.2020.105300
 
