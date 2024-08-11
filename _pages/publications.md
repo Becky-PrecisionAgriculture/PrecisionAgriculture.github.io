@@ -16,7 +16,7 @@ author_profile: true
 
 * [3] Beibei Xu, Wensheng Wang, Leifeng Guo, Guipeng Chen, Yongfeng Li, Zhen Cao, Saisai Wu. 2022. CattleFaceNet: An adaptive cattle face identification approach based on RetinaFace and Additive Angular Margin Loss. Computers and Electronics in Agriculture,193: 106675. <a href="https://doi.org/10.1016/j.compag.2021.106675" style="color: blue; font-weight: bold; text-decoration: none;">【DOI】</a>
 
-* [4] Guipeng Chen, Chong Li, Yang Guo,Hang Shu, Zhen Cao, Beibei Xu*. 2022. Recognition of cattle’s feeding behaviors using a noseband pressure sensor with machine learning. Frontiers in Veterinary Science, 9:822621. Doi: 10.3389/fvets.2022.822621
+* [4] Guipeng Chen, Chong Li, Yang Guo,Hang Shu, Zhen Cao, Beibei Xu*. 2022. Recognition of cattle’s feeding behaviors using a noseband pressure sensor with machine learning. Frontiers in Veterinary Science, 9:822621. <a href="https://doi.org/10.3389/fvets.2022.822621" style="color: blue; font-weight: bold; text-decoration: none;">【DOI】</a>
 
 * [5] Beibei Xu, Wensheng Wang, Leifeng Guo, Guipeng Chen, Yaowu Wang, Wenju Zhang, Yongfeng Li. 2021. Evaluation of deep learning for automatic multi-view face detection in cattle. Agriculture, 11 (11):1062. Doi: 10.3390/agriculture11111062
 
