@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 
-* [1] Beibei Xu, Yifan Mao, Wensheng Wang, Guipeng Chen. 2024. Intelligent weight prediction of cows based on semantic segmentation and back propagation neural network. Frontiers in Artificial Intelligence, 7: 1299169. Doi: 10.3389/frai.2024.1299169
+* [1] Beibei Xu, Yifan Mao, Wensheng Wang, Guipeng Chen. 2024. Intelligent weight prediction of cows based on semantic segmentation and back propagation neural network. Frontiers in Artificial Intelligence, 7: 1299169. [Doi](https://doi.org/10.3389/frai.2024.1299169)
 
 * [2] Beibei Xu, Jiahao Fan, Jun Chao, Nikola Arsenijevic, Rodrigo Werle, Zhou Zang. 2023. Instance segmentation method for weed detection using UAV imagery in soybean fields. Computers and Electronics in Agriculture, 211:107994. Doi: 10.1016/j.compag.2023.107994  
 
