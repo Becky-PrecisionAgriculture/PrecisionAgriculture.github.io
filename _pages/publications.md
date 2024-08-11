@@ -32,8 +32,8 @@ author_profile: true
 
 * [11] Zhongming Jin, Leifeng Guo, Hang Shu, Jingwei Qi, Yongfeng Li, Beibei Xu, Wenju Zhang, Kaiwen Wang, Wensheng Wang. 2022. Behavior Classification and Analysis of Grazing Sheep on Pasture with Different Sward Surface Heights Using Machine Learning. Animals, 12(14): 1744. <a href="https://doi.org/10.3390/ani12141744" style="color: blue; text-decoration: none;">【DOI】</a> 
 
-* [12] Yongfeng Li, Hang Shu, Jérôme Bindelle, Beibei Xu, Wenju Zhang, Leifeng Guo, Wensheng Wang. 2022. Classification and analysis of multiple cattle unitary behaviors and movements based on machine learning methods. Animals, 12(9):1060. Doi: 10.3390/ani12091060
+* [12] Yongfeng Li, Hang Shu, Jérôme Bindelle, Beibei Xu, Wenju Zhang, Leifeng Guo, Wensheng Wang. 2022. Classification and analysis of multiple cattle unitary behaviors and movements based on machine learning methods. Animals, 12(9):1060. <a href="https://doi.org/10.3390/ani12091060" style="color: blue; text-decoration: none;">【DOI】</a>  
 
-* [13] Yang Guo, Beibei Xu, Guipeng Chen, Jian Ding, Zhiyan Yan, Hua Liang, Changhua Wu. 2021. Rice Insect Pest Recognition Method Based on Convolutional Neural Network. Journal of China Agricultural Science and Technology, 23(11):99-109. Doi: 10.13304/j.nykjdb.2021.0300
+* [13] Yang Guo, Beibei Xu, Guipeng Chen, Jian Ding, Zhiyan Yan, Hua Liang, Changhua Wu. 2021. Rice Insect Pest Recognition Method Based on Convolutional Neural Network. Journal of China Agricultural Science and Technology, 23(11):99-109. <a href="https://doi.org/10.13304/j.nykjdb.2021.0300" style="color: blue; text-decoration: none;">【DOI】</a>  
 
 * [14] LeiFeng Guo, WenSheng Wang, P Kwan, M Welch, D Paul, GuiPeng Chen, Beibei Xu. 2019. Advances in livestock behavior monitoring based on the accelerometer motion sensor. Journal of Agricultural Science and Technology, 21(3), 94-101.
