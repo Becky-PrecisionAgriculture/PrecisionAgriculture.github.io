@@ -14,7 +14,7 @@ redirect_from:
 * University of Wisconsin-Madison, Spring 2023
   * Intelligence and Automation in Agriculture
  
-<h1>Undergraduates training<h1>
+<h1>Undergraduates training</h1>
 
 * Cornell University, Spring 2024
   *  Instructed students on data collection using mobile cameras and preprocessing data
