@@ -1,13 +1,13 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Teaching"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## Guest lecture
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
