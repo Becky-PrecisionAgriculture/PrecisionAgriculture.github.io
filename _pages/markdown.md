@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /markdown/
-title: "<style>h1, .page-title {display:none; margin:0; padding:0;}</style>"
+#title: ""
 author_profile: true
 redirect_from: 
   - /md/
