@@ -17,9 +17,9 @@ redirect_from:
   * Intelligence and Automation in Agriculture
 
 
-## Tips and hints
+## Undergraduates training
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-  * Green check: successful build
+* Cornell University, Spring 2024
+  *  Instructed students on data collection using mobile cameras and preprocessed data
 
 
