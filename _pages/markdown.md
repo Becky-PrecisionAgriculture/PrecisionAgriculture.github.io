@@ -13,7 +13,6 @@ redirect_from:
 
 * University of Wisconsin-Madison, Spring 2023
   * Intelligence and Automation in Agriculture
-
 ## Undergraduates training
 
 * Cornell University, Spring 2024
