@@ -20,6 +20,6 @@ redirect_from:
 ## Undergraduates training
 
 * Cornell University, Spring 2024
-  *  Instructed students on data collection using mobile cameras and preprocessed data
+  *  Instructed students on data collection using mobile cameras and preprocessing data
 
 
