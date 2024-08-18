@@ -1,15 +1,12 @@
 ---
 layout: archive
 permalink: /markdown/
-#title: ""
+title: "Guest lecture"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
-
-## Guest lecture
-
 
 * Cornell University, Fall 2024
   * Emerging Technologies in Precision Livestock Farming
