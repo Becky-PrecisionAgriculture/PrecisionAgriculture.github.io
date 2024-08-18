@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-#title: "<!-- -->"
+title: ""
 author_profile: true
 redirect_from: 
   - /md/
@@ -22,3 +22,6 @@ redirect_from:
   *  Instructed students on data collection using mobile cameras and preprocessing data
 
 
+{% if page.title and page.title != "" %}
+  <h1>{{ page.title }}</h1>
+{% endif %}
