@@ -9,15 +9,10 @@ redirect_from:
 
 ## Guest lecture
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
+
+* Cornell University,Fall 2024
+  * Emerging Technologies in Precision Livestock Farming
+
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png
