@@ -21,7 +21,3 @@ redirect_from:
 * Cornell University, Spring 2024
   *  Instructed students on data collection using mobile cameras and preprocessing data
 
-
-{% if page.title and page.title != "" %}
-  <h1>{{ page.title }}</h1>
-{% endif %}
