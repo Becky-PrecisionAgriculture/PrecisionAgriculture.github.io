@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 
-* [1] <span style="text-decoration: underline; font-weight: bold;">Beibei Xu</span>, Rodrigo Werle, Guilherme Chudzik, Zhou Zhang. 2024. Enhancing weed detection using UAV imagery and deep learning with weather-driven domain adaptation. Computers and Electronics in Agriculture, 237: 110673.  <a href="https://doi.org/10.1016/j.compag.2025.110673" style="color: blue; text-decoration: none;">【DOI】</a>
+* [1] <span style="text-decoration: underline; font-weight: bold;">Beibei Xu</span>, Rodrigo Werle, Guilherme Chudzik, Zhou Zhang. 2025. Enhancing weed detection using UAV imagery and deep learning with weather-driven domain adaptation. Computers and Electronics in Agriculture, 237: 110673.  <a href="https://doi.org/10.1016/j.compag.2025.110673" style="color: blue; text-decoration: none;">【DOI】</a>
 
 * [2] <span style="text-decoration: underline; font-weight: bold;">Beibei Xu</span>, Yifan Mao, Wensheng Wang, Guipeng Chen. 2024. Intelligent weight prediction of cows based on semantic segmentation and back propagation neural network. Frontiers in Artificial Intelligence, 7: 1299169.  <a href="https://doi.org/10.3389/frai.2024.1299169" style="color: blue; text-decoration: none;">【DOI】</a>
 
@@ -30,7 +30,7 @@ author_profile: true
 
 * [10] Guofeng Yang, Yong He, Yong Yang, <span style="text-decoration: underline; font-weight: bold;">Beibei Xu</span>. 2020. Fine-Grained image classification for crop disease based on attention mechanism. Frontiers in Plant Science,11:600854. <a href="https://doi.org/10.3389/fpls.2020.600854" style="color: blue; text-decoration: none;">【DOI】</a>
 
-* [11] Jun Chao, Kaiwen Wang, <span style="text-decoration: underline; font-weight: bold;">Beibei Xu, Mary Harty, Wensheng Wang, Kevin McDonnell. 2025. Invasive plants detection and distribution patterns analysis through self-attention enhanced semantic segmentation in UAV imagery and Moran’s index. Computers and Electronics in Agriculture, 229 : 109811. <a href="https://doi.org/10.1016/j.compag.2024.109811" style="color: blue; text-decoration: none;">【DOI】</a> 
+* [11] Jun Chao, Kaiwen Wang, <span style="text-decoration: underline; font-weight: bold;">Beibei Xu</span>, Mary Harty, Wensheng Wang, Kevin McDonnell. 2025. Invasive plants detection and distribution patterns analysis through self-attention enhanced semantic segmentation in UAV imagery and Moran’s index. Computers and Electronics in Agriculture, 229 : 109811. <a href="https://doi.org/10.1016/j.compag.2024.109811" style="color: blue; text-decoration: none;">【DOI】</a> 
 
 * [12] Ahsan Mamiya Binte, Guo Leifeng, Fardous Mohammad Safiul Azam, <span style="text-decoration: underline; font-weight: bold;">Beibei Xu</span>, Shah Johir Rayhan, Abdul Kaium, Wang Wensheng. 2022. Barriers, Challenges, and Requirements for ICT Usage among Sub-Assistant Agricultural Officers in Bangladesh: Toward Sustainability in Agriculture. Sustainability, 15(1):782. <a href="https://doi.org/10.3390/su15010782" style="color: blue; text-decoration: none;">【DOI】</a>  
 
