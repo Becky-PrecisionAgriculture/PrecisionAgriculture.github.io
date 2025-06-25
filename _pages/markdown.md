@@ -19,3 +19,8 @@ redirect_from:
 * Cornell University, Spring 2024
   *  Instructed students on data collection using mobile cameras and preprocessing data
 
+<h1>Digital Agriculture Hackathon mentor</h1>
+
+* Cornell University, Spring 2025
+  *  Provided mentorship to participants, guiding them in developing innovative 
+solutions in digital agriculture
