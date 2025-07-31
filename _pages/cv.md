@@ -39,12 +39,6 @@ Honors and Awards
 
 * Outstanding Graduates Awards, China, 2016
 
-Professional Services
-====== 
-
-* Guest Editor for Agronomy, 2021-present
-
-* Reviewer for Computers and Electronics in Agriculture, Remote Sensing, Sensors, International Journal of Remote Sensing, Agriculture, Agronomy, Animals, The visual computer, Journal of imaging, Applied sciences, Drones, Electronics, Future internet, Data
 
 
   
